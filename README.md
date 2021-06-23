@@ -2,7 +2,7 @@ Magnus Haake
 
 Associate Professor in Cognitive Science
 
-Vice Director: the Educational Technology Group
+Vice Director: Educational Technology Group
 
 LUCS, Lund University Cognitive Science
 
